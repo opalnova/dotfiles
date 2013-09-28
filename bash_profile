@@ -6,5 +6,6 @@ export EDITOR=vim
 source ~/dotfiles/git_completion.bash
 source ~/dotfiles/git_prompt
 source ~/dotfiles/aliases.bash
+source ~/dotfiles/prompt.bash
 
 set -o vi
