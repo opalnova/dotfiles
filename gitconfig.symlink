@@ -62,7 +62,7 @@
 [include]
     path = .my_gitconfig
 [user]
-	name = Amos L King
-	email = amos.l.king@gmail.com
+	name = Josh Chernoff
+	email = joshc@digitalcak.es
 [core]
 	editor = /usr/bin/vim
