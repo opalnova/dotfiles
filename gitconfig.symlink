@@ -1,5 +1,5 @@
 [git-pair]
-    authors = Josh Chernoff <joshc@digitalcak.es>
+    authors = Jennifer Chernoff <jenniferchernoff@gmail.com>
 
 [color]
     ui = auto
@@ -62,8 +62,8 @@
 [include]
     path = .my_gitconfig
 [user]
-	name = Josh Chernoff
-	email = joshc@digitalcak.es
+	name = Jennifer Chernoff 
+	email = jenniferchernoff@gmail.com
 [core]
 	editor = /usr/bin/vim
 [push]
